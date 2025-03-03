@@ -4,6 +4,26 @@ The model solution and the prompts are just one solution. The given prompts are 
 
 ## How to get started
 
+1. Create a Virtual Environment
+
+    python -m venv .venv
+
+2. Activate the Virtual Environment
+
+    source .venv/Scripts/activate
+
+3. Install Requirements
+
+    pip install -r requirements.txt
+
+4. Run the game 
+
+    python space_invaders.py
+
+5. Deactivate Virtual Environment
+
+    deactivate
+
 ### Thinking piece by piece
 
 
