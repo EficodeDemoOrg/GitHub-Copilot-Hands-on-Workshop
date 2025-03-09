@@ -4,7 +4,7 @@ The classic To-Do application where a user can write down all the things he want
 
 You can choose any language you wish to use to complete this exercise. 
 
-Use the user stories below to craft prompts for Copilot.
+Start with the user stories below to craft prompts for Copilot.
 
 ## User Stories
 -   [ ] User can see an `input` field where he can type in a to-do item
